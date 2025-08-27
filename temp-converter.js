@@ -13,7 +13,10 @@ function tempConverter() {
             console.log("Goodbye!");
             rl.close();  
             return; 
-    
+        } else if (input === ""){
+            console.log("Please, enter a number.")
+        } else if (isNaN(input)){
+            console.log("Kindly enter a valid number.")
         } else {
             let celsius = parseFloat(input)
             let fahrenheit = (9/5 * celsius) + 32 
