@@ -1,0 +1,5 @@
+My name is Agnes.
+I am a backend developer.
+I have built basic and intermediate projects using Node and Python.
+I hope to create a proper portfolio.
+So that I can secure a mid-level role in backend development.
